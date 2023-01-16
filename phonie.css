@@ -1,0 +1,42 @@
+body {
+  background-color: bisque;
+}
+
+#text1 {
+  background-color: rgb(102, 102, 99);
+  text-align: center;
+  height: 20px;
+  font-size: 15px;
+  margin-top: 0;
+  color: white;
+  padding-top: 1px;
+  padding-bottom: 50px;
+  border-radius: 10px;
+}
+
+#text2 {
+  display: grid;
+  grid-template-columns: 2fr 1fr 2fr;
+  height: 300px;
+  padding-top: 30px;
+}
+#text3 {
+  background-color: rgb(90, 88, 88);
+  border-radius: 20px;
+}
+#txt1 {
+  padding-left: 0px;
+  text-align: center;
+  margin-left: 10px;
+  font-size: 17px;
+}
+#txt2 {
+  text-align: center;
+  color: white;
+  font-size: 17px;
+  margin-top: 60px;
+}
+#image1 {
+  width: 70px;
+  padding-left: 100px;
+}
